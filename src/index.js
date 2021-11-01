@@ -20,3 +20,6 @@ render(
   ,
   document.querySelector('#root')
 );
+
+// how many this cal i return from a function
+// ANSWER: ONE, [1,2,3,4,5], {name:'casey', password: 'rocks'}
